@@ -1,0 +1,2 @@
+# SmartEduHubFrontend
+school management system
